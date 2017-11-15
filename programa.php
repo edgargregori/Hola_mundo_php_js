@@ -1,4 +1,3 @@
 <? 
-Hola Bolivia!
-
+Sucre la capital.
 ?>
